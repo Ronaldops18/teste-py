@@ -11,3 +11,5 @@ unitários chamado "test_calculadora.py"
 testes unitários
 - comando no Terminal: python test_calculadora.py
 
+4) criar arquivo a ser testado chamada calculadora.py
+
